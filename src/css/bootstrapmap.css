@@ -67,6 +67,10 @@
   background-color: #fff;
 }
 
+.esriPopup .contentPane {
+  overflow: auto;
+}
+
 .esriPopup .titlePane, .esriPopup .contentPane, .esriPopup .actionsPane, 
 .esriPopup .pointer, .esriPopup .outerPointer, .esriPopup .pointer.top, .esriPopup .pointer.topLeft, 
 .esriPopup .pointer.topRight, .esriPopup .pointer.bottomLeft, .esriPopup .pointer.bottomRight {
